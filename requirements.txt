@@ -1,0 +1,4 @@
+git+https://github.com/pyannote/pyannote-audio.git@094717b6d49bff4db916962643436defc1444e9f#egg=pyannote-audio
+torch_audiomentations>=0.9.1
+tqdm>=4.62.3
+pytorch-lightning>=1.5.9
