@@ -36,7 +36,7 @@ For more information on script arguments see `run_ours.py -h` or `run_whole.py -
 ## Citation
 
 ```bibtex
-Paper under review. 
+Paper under review at Interspeech 2022
 ```
 
 ## License
