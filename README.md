@@ -36,7 +36,16 @@ For more information on script arguments see `run_ours.py -h` or `run_whole.py -
 ## Citation
 
 ```bibtex
-Paper accepted at SLT 2022
+@inproceedings{csda,
+  author={Coria, Juan M. and Bredin, Hervé and Ghannay, Sahar and Rosset, Sophie},
+  booktitle={2022 IEEE Spoken Language Technology Workshop (SLT)}, 
+  title={{Continual Self-Supervised Domain Adaptation for End-to-End Speaker Diarization}}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={626-632},
+  doi={10.1109/SLT54892.2023.10023195}
+}
 ```
 
 ## License
